@@ -29,6 +29,11 @@ cd into the githubionic folder run npm install
 $ npm install
 ```
 
+Build the app
+```bash
+$ npm run build
+```
+
 Serve the app
 ```bash
 $ ionic serve
