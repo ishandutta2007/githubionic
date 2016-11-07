@@ -29,6 +29,11 @@ cd into the githubionic folder run npm install
 $ npm install
 ```
 
+You may need to restore the state of the ionic project, especially if you plan on using cordova.
+```bash
+ionic prepare
+```
+
 Build the app
 ```bash
 $ npm run build
